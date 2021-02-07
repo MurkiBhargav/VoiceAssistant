@@ -1,0 +1,19 @@
+open chrome
+close chrome
+open gmail
+navigate to gmail
+open amazon
+navigate to amazon
+open flipkart
+navigate to flipkart
+open youtube
+navigate to youtube
+open hackerrank
+open leetcode
+close gmail
+open notepad
+close notepad
+open microsoft word
+close microsoft word
+open excel
+close excel
