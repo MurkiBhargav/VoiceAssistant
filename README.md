@@ -6,7 +6,7 @@ This is Java based voice recognition application that can listen to your voice c
 
 ## Capabilities
 - Can open and close applications like Chrome, Notepad, Microsoft Excel, Microsoft Word through voice commands
-- Can navigate you to websites Gmail, Amazon, Flipkart, Youtube and so on
+- Can navigate you to websites like Gmail, Amazon, Flipkart, Youtube and so on
 
 ## Installation
 1. **Fork** this repository to save a copy of this project on your account.
